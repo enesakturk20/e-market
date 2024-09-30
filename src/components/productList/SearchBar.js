@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, TextInput, StyleSheet, TouchableOpacity } from 'react-native';
-import { Ionicons } from '@expo/vector-icons'; // react-native-vector-icons ya da expo-vector-icons kütüphanesinden import edin
+import { Ionicons } from '@expo/vector-icons';
 import { Colors } from '../../constants/Styles';
 
 const SearchBar = ({ searchQuery, setSearchQuery }) => {
@@ -30,8 +30,8 @@ const SearchBar = ({ searchQuery, setSearchQuery }) => {
 
 const styles = StyleSheet.create({
     container: {
-        flexDirection: 'row', // İkon ve TextInput'u yatay olarak hizalar
-        alignItems: 'center', // İkon ve TextInput'u dikey olarak ortalar
+        flexDirection: 'row',
+        alignItems: 'center',
         backgroundColor: Colors.primary100,
         borderColor: '#ccc',
         borderWidth: 1,
@@ -41,10 +41,10 @@ const styles = StyleSheet.create({
         marginHorizontal: 5,
     },
     icon: {
-        marginRight: 10, // İkon ve TextInput arasında boşluk bırakır
+        marginRight: 10, 
     },
     searchInput: {
-        flex: 1, // TextInput'un kalan alanı kaplamasını sağlar
+        flex: 1, 
         height: 40,
     },
 });

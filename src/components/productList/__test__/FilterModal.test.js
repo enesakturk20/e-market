@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react-native';
-import FilterModal from '../FilterModal'; // Bileşenin doğru yolunu kontrol edin
+import FilterModal from '../FilterModal';
 
 describe('FilterModal Component', () => {
   it('should render correctly', () => {

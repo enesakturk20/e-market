@@ -1,4 +1,3 @@
-// productApi.test.js
 import axios from 'axios';
 import { getProducts, getProductDetail } from '../productService'; 
 

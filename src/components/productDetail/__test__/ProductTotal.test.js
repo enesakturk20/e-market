@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react-native';
-import ProductTotal from '../ProductTotal'; // Bileşen yolu
+import ProductTotal from '../ProductTotal';
 
 describe('ProductTotal Component', () => {
     const mockProduct = {

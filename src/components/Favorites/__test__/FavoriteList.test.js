@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react-native';
-import FavoriteList from '../FavoriteList'; // FavoriteList dosyasının doğru path'ini kullanın
+import FavoriteList from '../FavoriteList'; 
 
 const mockFavorites = [
   { id: 1, name: 'Product 1', price: '10.99', image: 'https://example.com/product1.jpg' },

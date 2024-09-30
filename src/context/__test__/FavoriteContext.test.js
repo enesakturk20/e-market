@@ -1,8 +1,8 @@
 import React from 'react';
-import { Text } from 'react-native';  // Eksik olan import
+import { Text } from 'react-native';
 import { render, screen, waitFor } from '@testing-library/react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { FavoriteProvider, FavoriteContext } from '../FavoriteContext'; // context dosyasının yolu
+import { FavoriteProvider, FavoriteContext } from '../FavoriteContext';
 
 describe('FavoriteContext', () => {
     afterEach(() => {
