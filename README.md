@@ -8,7 +8,7 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiştir. Uygulamada, sta
 - Ürünleri favorilere ekleme/çıkarma.
 - Sepete ürün ekleme, çıkarma ve miktar değiştirme.
 
-[Uygulama Tanıtım Videosu](https://i.imgur.com/8PFfWF7.gif)
+[Uygulama Tanıtım Videosu](https://i.imgur.com/UqLVS22.gif)
 
 
 ## Ekran Görüntüleri
