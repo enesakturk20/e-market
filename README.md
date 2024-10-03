@@ -10,13 +10,6 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiştir. Uygulamada, sta
 
 [Uygulama Tanıtım Videosu](https://i.imgur.com/UqLVS22.gif)
 
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/UqLVS22.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
 ## Ekran Görüntüleri
 
 ### iPhone 15 Pro Max
