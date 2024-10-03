@@ -8,9 +8,9 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiştir. Uygulamada, sta
 - Ürünleri favorilere ekleme/çıkarma.
 - Sepete ürün ekleme, çıkarma ve miktar değiştirme.
 
-## Ekran Görüntüleri
+[Uygulama Tanıtım Videosu](https://video-link)
 
-![](https://i.imgur.com/8PFfWF7.mp4)
+## Ekran Görüntüleri
 
 ### iPhone 15 Pro Max
 <p align="center">
