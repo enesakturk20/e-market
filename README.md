@@ -10,6 +10,8 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiştir. Uygulamada, sta
 
 ## Ekran Görüntüleri
 
+![](https://i.imgur.com/8PFfWF7.mp4)
+
 ### iPhone 15 Pro Max
 <p align="center">
   <img src="https://i.imgur.com/rUQitOv.png" alt="Home iPhone 15 Pro Max" width="200"/>
